@@ -1,0 +1,3 @@
+Plain Rice: Php 5.00
+Java Rice: Php 10.00
+Vegetable: Php 20.00
